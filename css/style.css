@@ -90,7 +90,7 @@ body{
 	font-family: Poppins;
 }
 #products{
-	padding-top: 5%;
+	padding: 5% 0;
 }
 #products img{
 	border-radius: 100%;
@@ -122,3 +122,51 @@ body{
 .precio{
 	color: #EBB576!important;
 }
+
+.btn-light{
+	border: solid 2px #777;
+	text-transform: uppercase;
+	padding: 10px 10px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #777;
+	text-align: center;
+	margin-left: 45%;
+	background-color: #ffffff;
+}
+
+#counter{
+	padding: 15px 0px;
+	background-color: #EBB576;
+}
+
+#counter h2{
+	text-align: center;
+	font-weight:600;
+	color: #fff;
+}
+
+#counter h6{
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+}
+
+#chef img{
+	border-radius: 100%;
+}
+
+#chef h4{
+	font-size: 14px;
+	font-weight: 600;
+	color:#555;
+	padding-top: 5px;
+}
+
+#chef{
+	text-align: center;
+	padding: 10% 0;
+	background-color:  #F2F2F2;
+}
+
+
